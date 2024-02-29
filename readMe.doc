@@ -1,10 +1,7 @@
 Group 3: Emily, Isabelle, Henry, Matt, and Christan 
 
-B. We had two person change the name of a docuemnt title and and had one commit and push
-and the other person just commit, but an error will show up if they try to push because the origin is ahead.
+B. In attempts to make a conflict in merging branches, we had two people change the name of a docuemnt title, on two seperate branches, and had one commit and push while the other person just commited the change. An error will show up if they try to push because the changes are on the same lines. This results in a merge conflict that needs to be resolved manually by the person merging the changes.
 
-C. Student 1 is working the develop_branch on a text file adding information regarding the introduction of the project and is able to sucessfull commit and push everyuthing
- and student b is working on the conflict_branch on the same text file, but adding information about the daily scrum meeting at the end of the documet.
-Student B would have no problem because Git can merge the changes automatically onlu if the commits are onm different lines or branches.
-
+C. Student 1 is working the develop_branch on a text file adding information regarding the introduction of the project and is able to sucessfully commit and push everyuthing
+ and student b is working on the conflict_branch on the same text file, but adding information about the daily scrum meeting at the end of the document. Student B would have no problem because Git can merge the changes automatically only if the commits are on different lines or branches.
 
