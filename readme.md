@@ -6,4 +6,4 @@ C. Student 1 is working the develop_branch on a text file adding information reg
  and student b is working on the conflict_branch on the same text file, but adding information about the daily scrum meeting at the end of the document. Student B would have no problem because Git can merge the changes automatically only if the commits are on different lines or branches.
 
 
-![GitGraph](Git%20Tree.png"GitGraph")
+![GitGraph](Git%20Tree.png)
